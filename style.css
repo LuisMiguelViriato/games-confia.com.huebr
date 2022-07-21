@@ -4,6 +4,16 @@ background-color: rgb(255, 255, 255);
 border: solid;
 flex-wrap:wrap ;
 }
+
+#carlos:hover img{
+
+    opacity:0.5687
+}
+
+#fernandito{
+    background-color: rgb(255, 255, 255);
+}
+
 #pablo{
 display: flex;
 
